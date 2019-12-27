@@ -1,0 +1,2 @@
+# infopaedia
+Spring MVC project
