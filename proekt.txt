@@ -1,0 +1,9 @@
+Item - Many to many to category
+Category - 
+Property
+Property value
+Dependency - one to one dependency, many to many to category
+Dependency value
+Unit
+User - one to many filter
+Filter - category, + other tables (property values and dependency values lists)
